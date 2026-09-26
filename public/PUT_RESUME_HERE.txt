@@ -1,0 +1,4 @@
+Drop your resume file here as: resume.pdf
+(public/resume.pdf)
+
+The "Download Resume" buttons in Hero.js and Contact.js already link to /resume.pdf.
