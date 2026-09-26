@@ -39,6 +39,12 @@ npm run build
 npm run start
 ```
 
+## Netlify deployment
+
+This repository includes `netlify.toml` for Netlify's Next.js runtime. Deploy
+from the `main` branch with the configuration in that file; the project is a
+server-rendered Next.js app and does not use a standalone `index.html` file.
+
 ## Image assets
 
 - `public/images/nav-avatar.png` — your circular character portrait, used in the navbar.
